@@ -17,6 +17,7 @@ En este sitio se encuentran las notas de las clases en EnterTechSchool
 - [Nota8](https://github.com/crhistian007/ReadingNotes/blob/main/101/read8.md)
 - [Nota9](https://github.com/crhistian007/ReadingNotes/blob/main/101/read9.md)
 - [Nota10](https://github.com/crhistian007/ReadingNotes/blob/main/101/read10.md)
+- [Nota11](https://github.com/crhistian007/ReadingNotes/blob/main/101/read11.md)
 
 ## Notas de lectura - Code201
 - [Nota1](https://github.com/crhistian007/ReadingNotes/blob/main/201/read1.md)
